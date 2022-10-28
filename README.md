@@ -2,7 +2,7 @@
 
 Basic NLP dev container
 
-[components in the container](./assets/clickNLP.png)
+![components in the container](./assets/clickNLP.png)
 
 1. Create the Dockerfile to generate the container that roughly contains the components above
 2. Build the docker image and push it to Docker Hub
