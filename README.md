@@ -8,7 +8,7 @@ Basic NLP dev container
 2. Build the docker image and push it to Docker Hub
 3. Pull image from Docker Hub and use
 
-####notes
+#### Notes
 
 - add a data cleaning library 
 https://pypi.org/project/nlp-text-cleaner/
