@@ -12,3 +12,4 @@ Basic NLP dev container
 
 - add a data cleaning library 
 https://pypi.org/project/nlp-text-cleaner/
+- One possible approach could be like delta https://github.com/Delta-ML/delta
